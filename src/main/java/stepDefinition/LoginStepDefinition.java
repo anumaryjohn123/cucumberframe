@@ -49,7 +49,7 @@ public class LoginStepDefinition {
 		
 	}
 
-	@Then("^user enters now \\"(.*)\\\" and "<lastname>" and "<position>")
+	
 	
 	@Then("^user is on home page$")
 	public void user_is_on_home_page() throws Throwable {
